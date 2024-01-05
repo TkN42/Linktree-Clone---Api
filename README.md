@@ -41,3 +41,41 @@ Service katmanı
 ![4](https://github.com/TkN42/Linktree-Clone---Api/assets/29886553/a2b05331-f378-472c-a0ea-ef6a73c6ccaf)
 ![db1](https://github.com/TkN42/Linktree-Clone---Api/assets/29886553/edb766af-81fe-471c-82ab-40811fd61eb5)
 ![db2](https://github.com/TkN42/Linktree-Clone---Api/assets/29886553/4023d6d1-298b-49f1-8910-45d4c68a5cc8)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Don't forget to create appsettings.json to run the project.
+An example json:
+{
+   "MongoDbConnection": {
+     "ConnectionString": "mongodb://localhost:*****",
+     "DatabaseName": "DBNAME"
+   },
+   "logging": {
+     "LogLevel": {
+       "Default": "Information",
+       "Microsoft": "Warning",
+       "Microsoft.Hosting.Lifetime": "Information"
+     }
+   },
+   "AllowedHosts": "*"
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+projeyi çalıştırmak için appsettings.json oluşturmayı unutmayın.
+örnek bir json :
+{
+  "MongoDbConnection": {
+    "ConnectionString": "mongodb://localhost:*****",
+    "DatabaseName": "DBNAME"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
