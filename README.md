@@ -45,7 +45,9 @@ Service katmanı
 -------------------------------------------------------------------------------------------------------------------------------
 
 Don't forget to create appsettings.json to run the project.
+
 An example json:
+
 {
    "MongoDbConnection": {
      "ConnectionString": "mongodb://localhost:*****",
@@ -64,7 +66,9 @@ An example json:
 -------------------------------------------------------------------------------------------------------------------------------
 
 projeyi çalıştırmak için appsettings.json oluşturmayı unutmayın.
+
 örnek bir json :
+
 {
   "MongoDbConnection": {
     "ConnectionString": "mongodb://localhost:*****",
