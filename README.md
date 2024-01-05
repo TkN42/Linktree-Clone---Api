@@ -1,8 +1,26 @@
-# Linktree Clone - Api # MongoDB-CRUD-with-.Net-Core
+Linktree Clone API
 
-MongoDB is one of the most popular Document based NOSQL Database with all the flexibility and scalability that your application would ever need. MongoDB is extensively used by large tech giants for storing high volumes of data. Instead of using the traditional SQL Tables and Rows, MongoDB stores data in JSON objects which is much more efficient than the traditional row/column approach.
+This project is a clone of the Linktree website's API. The project uses ASP.NET Core Web API, MongoDB, and NOSQL technologies.
 
-MongoDB is highly cross platform and can just work with about everything. As our point of concern, MongoDB can be seamleslly integrated with ASP.NET Core to take the maximum advantage of this awesome document based NOSQL Database. Let’s setting up MongoDB Server and ultimately building a ASP.NET Core WebAPI that does CRUD operations on a MongoDB Instances.
+Technologies Used
+
+ASP.NET Core Web API
+MongoDB
+NOSQL
+Repository layers
+Service layers
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Linktree Clone API
+Bu proje, Linktree web sitesinin bir API klonudur. Proje, ASP.NET Core Web API, MongoDB ve NOSQL teknolojilerini kullanmaktadır.
+
+Kullanılan teknolojiler
+ASP.NET Core Web API
+MongoDB
+NOSQL
+Repository mimari katmanı
+Service katmanı
 
 -------------------------------------------------------------------------------------------------------------------------------
 
