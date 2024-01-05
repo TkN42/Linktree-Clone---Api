@@ -49,18 +49,31 @@ Don't forget to create appsettings.json to run the project.
 An example json:
 
 {
+
    "MongoDbConnection": {
+   
      "ConnectionString": "mongodb://localhost:*****",
+     
      "DatabaseName": "DBNAME"
+     
    },
+   
    "logging": {
+   
      "LogLevel": {
+     
        "Default": "Information",
+       
        "Microsoft": "Warning",
+       
        "Microsoft.Hosting.Lifetime": "Information"
+       
      }
+     
    },
+   
    "AllowedHosts": "*"
+   
 }
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -70,16 +83,29 @@ projeyi çalıştırmak için appsettings.json oluşturmayı unutmayın.
 örnek bir json :
 
 {
+
   "MongoDbConnection": {
+  
     "ConnectionString": "mongodb://localhost:*****",
+    
     "DatabaseName": "DBNAME"
+    
   },
+  
   "Logging": {
+  
     "LogLevel": {
+    
       "Default": "Information",
+      
       "Microsoft": "Warning",
+      
       "Microsoft.Hosting.Lifetime": "Information"
+      
     }
+    
   },
+  
   "AllowedHosts": "*"
+  
 }
