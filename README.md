@@ -13,6 +13,7 @@ Service layers
 -------------------------------------------------------------------------------------------------------------------------------
 
 Linktree Clone API
+
 Bu proje, Linktree web sitesinin bir API klonudur. Proje, ASP.NET Core Web API, MongoDB ve NOSQL teknolojilerini kullanmaktadır.
 
 Kullanılan teknolojiler
